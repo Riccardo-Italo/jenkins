@@ -1,5 +1,5 @@
-  while True:
-    print(hello_message)
+while True:
+    print('hello_message')
 
     action = input("Inserisci il numero corrispondete all'operazione da effettuare: ")
 
@@ -42,4 +42,4 @@
         continue
     else:
         print("A presto!\n")
-        break
+        break
